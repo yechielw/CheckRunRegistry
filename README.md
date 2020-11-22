@@ -1,2 +1,2 @@
 # CheckRunRegistry
-Checks for changes in HKLM:\\SOFTWARE\Microsoft\Windows\CurrentVersion\Run Registry every 60 seconds.
+Checks for changes in autorun Registry every 60 seconds.
